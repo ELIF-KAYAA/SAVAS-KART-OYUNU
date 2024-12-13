@@ -1,0 +1,26 @@
+--- 1. Hamle Sonu ---
+Oyuncunun Skoru: 10, Bilgisayarın Skoru: 10
+Oyuncu Kartları: SİHA, Kara Füze Sistemi, SİDA, Firkateyn, Obus
+Bilgisayar Kartları: SİHA, Kara Füze Sistemi, SİDA, Firkateyn, Obus
+--- 2. Hamle Sonu ---
+Oyuncunun Skoru: 30, Bilgisayarın Skoru: 60
+Oyuncu Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+Bilgisayar Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+--- 3. Hamle Sonu ---
+Oyuncunun Skoru: 30, Bilgisayarın Skoru: 200
+Oyuncu Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+Bilgisayar Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+--- 4. Hamle Sonu ---
+Oyuncunun Skoru: 30, Bilgisayarın Skoru: 570
+Oyuncu Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+Bilgisayar Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+
+Oyun sona erdi!
+Nihai Skor - Oyuncu: 30, Bilgisayar: 1540
+Bilgisayar kazandı! Skoru daha yüksek.
+Kalan Oyuncu Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+Kalan Bilgisayar Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+--- 5. Hamle Sonu ---
+Oyuncunun Skoru: 30, Bilgisayarın Skoru: 1540
+Oyuncu Kartları: Kara Füze Sistemi, SİDA, Firkateyn
+Bilgisayar Kartları: Kara Füze Sistemi, SİDA, Firkateyn

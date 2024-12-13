@@ -1,0 +1,26 @@
+--- 1. Hamle Sonu ---
+Oyuncunun Skoru: 10, Bilgisayarın Skoru: 10
+Oyuncu Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus
+Bilgisayar Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus
+--- 2. Hamle Sonu ---
+Oyuncunun Skoru: 20, Bilgisayarın Skoru: 50
+Oyuncu Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus
+Bilgisayar Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus
+--- 3. Hamle Sonu ---
+Oyuncunun Skoru: 30, Bilgisayarın Skoru: 170
+Oyuncu Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus
+Bilgisayar Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus
+--- 4. Hamle Sonu ---
+Oyuncunun Skoru: 30, Bilgisayarın Skoru: 490
+Oyuncu Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus
+Bilgisayar Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus
+
+Oyun sona erdi!
+Nihai Skor - Oyuncu: 30, Bilgisayar: 1330
+Bilgisayar kazandı! Skoru daha yüksek.
+Kalan Oyuncu Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus
+Kalan Bilgisayar Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus
+--- 5. Hamle Sonu ---
+Oyuncunun Skoru: 30, Bilgisayarın Skoru: 1330
+Oyuncu Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus
+Bilgisayar Kartları: SİHA, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Firkateyn, Obus, SİHA, Kara Füze Sistemi, SİDA, Uçak, Obus

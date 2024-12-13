@@ -1,0 +1,60 @@
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Properties.Resources.resources
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe.config
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\source\repos\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Form1.resources
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Form1.resources
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe.config
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Properties.Resources.resources
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\Savas Aracları Kart Oyunu\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Form1.resources
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Properties.Resources.resources
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe.config
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - Kopya\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.SavasOyunlari.resources
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Properties.Resources.resources
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe.config
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\Savas Aracları Kart Oyunu - güncel - Kopya (2)\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe.config
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.SavasOyunlari.resources
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Properties.Resources.resources
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\PROLAB1-2\Savas Aracları Kart Oyunu - en güncel\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe.config
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\bin\Debug\Savas Aracları Kart Oyunu.pdb
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.SavasOyunlari.resources
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\obj\Debug\Savas_Aracları_Kart_Oyunu.Properties.Resources.resources
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.exe
+C:\Users\elif\Desktop\OkulProjeler\PROLAB-2\210201125\Savas Aracları Kart Oyunu\obj\Debug\Savas Aracları Kart Oyunu.pdb
